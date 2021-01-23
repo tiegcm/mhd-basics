@@ -5,7 +5,7 @@ Topics:
 - Electrodybamics in MHD
 - Fluid dynamics for MHD
 - MHD equations 1 - from microscopic to macroscopic
-- MHD equations 2 - moment equations
+- MHD equations 2 - general transport equation, moment equations
 - MHD equations 3 - single-fluid, ideal MHD equations
 - MHD waves 1 - slow, shear and fast modes
 - MHD waves 2 - non-ideal MHD waves
